@@ -1,0 +1,15 @@
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\bin\Debug\net6.0\PRACTICA 3.exe
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\bin\Debug\net6.0\PRACTICA 3.deps.json
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\bin\Debug\net6.0\PRACTICA 3.runtimeconfig.json
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\bin\Debug\net6.0\PRACTICA 3.dll
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\bin\Debug\net6.0\PRACTICA 3.pdb
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.csproj.AssemblyReference.cache
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.AssemblyInfoInputs.cache
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.AssemblyInfo.cs
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.dll
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\refint\PRACTICA 3.dll
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.pdb
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\PRACTICA 3.genruntimeconfig.cache
+C:\Users\Lucas Bialas\Downloads\Universidad\2023\Algoritmos y Programación\CLASES\Clase 3\PRACTICA 3\PRACTICA 3\obj\Debug\net6.0\ref\PRACTICA 3.dll
